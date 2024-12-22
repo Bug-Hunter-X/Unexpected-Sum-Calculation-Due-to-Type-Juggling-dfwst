@@ -1,0 +1,1 @@
+This example demonstrates a common error in PHP related to type juggling. The `calculateSum` function inadvertently adds a string to integers resulting in an incorrect sum.  The solution involves adding type checking to ensure only numeric values are processed.
